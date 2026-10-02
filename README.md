@@ -1,3 +1,5 @@
+<p align="center"><img src="screenshots/logo.png" alt="PrismReels Desktop by ZoneCore" width="260"></p>
+
 # PrismReels Desktop — Beta
 
 Edição automática de vídeos com inteligência artificial, direto no seu Mac: envie o vídeo, diga o que quer e receba
