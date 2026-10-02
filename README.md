@@ -11,7 +11,7 @@ provedor.
 | | |
 |---|---|
 | Sistema | macOS com chip Apple (M1 ou mais novo) |
-| Arquivo | `.dmg` (versão 0.4.0-beta) |
+| Arquivo | `.dmg` (versão 0.5.0-beta) |
 | Windows e Linux | em breve |
 
 ![Tela inicial do PrismReels Desktop](screenshots/tela-inicial.jpg)
